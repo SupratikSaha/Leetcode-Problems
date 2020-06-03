@@ -1,2 +1,2 @@
 # Leetcode-Problems
-This repository showcases leetcode problems that I have solved
+This repository showcases leetcode problems solved by me
