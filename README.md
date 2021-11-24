@@ -1,2 +1,2 @@
 # Leetcode-Problems
-This repository showcases leetcode problems solutions with time and space complexities
+This repository showcases Leetcode problems solutions with time and space complexities
